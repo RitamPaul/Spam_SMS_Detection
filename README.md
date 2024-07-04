@@ -26,3 +26,4 @@ Download from here = [**click me**](https://www.kaggle.com/datasets/uciml/sms-sp
 2. Use of **TF-IDF** method to convert strings into numerical values
 3. Implementation of **Logistic Regression** on model building
 4. Evaluation metric used - **Accuracy**
+5. A short driver code (in Deployment section) to take user input sms and predicting whether it is spam or not
